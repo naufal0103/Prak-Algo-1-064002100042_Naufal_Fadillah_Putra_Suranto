@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 31 11:46:42 2021
+
+@author: Naufal Fadillah
+NAME  : Naufal Fadillah Putra Suranto 
+NIM    : 064002100042
+"""
+import math
+print("cari koordinat")
+x1 = eval(input("masukan nilai x1= "))
+x2 = eval(input("masukan nilai x2= "))
+y1 = eval(input("masukan nilai y1= "))
+y2 = eval(input("masukan nilai y2= "))
+
+print("hasilnya adalah:",math.sqrt((x1-x2)**2+(y1-y2)))
+
