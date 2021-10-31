@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 31 11:52:38 2021
+
+@author: Naufal Fadillah
+NAME  : Naufal Fadillah Putra Suranto 
+NIM    : 064002100042
+"""
+#huruf kecil ke kapital
+string = "algoritma itu enak loh"
+print(string)
+cara= string.upper()
+print(cara)
+
